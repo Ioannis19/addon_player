@@ -1,6 +1,5 @@
 {
   "movie_url": "https://vidsrc.net/embed/movie/",
   "tv_url": "https://vidsrc.net/embed/tv/",
-  "donate_url": "https://www.paypal.com/donate/?hosted_button_id=EKRE8UJHA54CE",
-  "safe_list": ["about:blank", "paypal.com", "chrome://", "imdb.com", "newtab"]
+  "paypal_url": "https://www.paypal.com/donate/?hosted_button_id=EKRE8UJHA54CE"
 }
